@@ -5,6 +5,7 @@
 /home/gyuhee/Documents/u-projects/BackendSeminario/main/src/main/java/com/main/config/SwaggerConfig.java
 /home/gyuhee/Documents/u-projects/BackendSeminario/main/src/main/java/com/main/controllers/AdminController.java
 /home/gyuhee/Documents/u-projects/BackendSeminario/main/src/main/java/com/main/controllers/AuthController.java
+/home/gyuhee/Documents/u-projects/BackendSeminario/main/src/main/java/com/main/controllers/HealthCheckController.java
 /home/gyuhee/Documents/u-projects/BackendSeminario/main/src/main/java/com/main/controllers/MainController.java
 /home/gyuhee/Documents/u-projects/BackendSeminario/main/src/main/java/com/main/controllers/RegisterController.java
 /home/gyuhee/Documents/u-projects/BackendSeminario/main/src/main/java/com/main/controllers/ResourceController.java

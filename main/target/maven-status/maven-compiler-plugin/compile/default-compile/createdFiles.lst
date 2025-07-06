@@ -61,6 +61,7 @@ com/main/services/UnitService.class
 com/main/dtos/DayAvailabilityDTO.class
 com/main/dtos/ResourceCreationDTO.class
 com/main/models/Student.class
+com/main/controllers/HealthCheckController.class
 com/main/models/AvailabilitySchedule$AvailabilityScheduleBuilder.class
 com/main/dtos/LoginRequest.class
 com/main/models/Resource$ResourceBuilder.class
