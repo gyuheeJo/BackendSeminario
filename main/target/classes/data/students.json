@@ -1,0 +1,28 @@
+[
+  {
+    "documentType": "CC",
+    "document": 1000456456,
+    "email": "gyuhee@udistrital.edu.co",
+    "firstName": "gyuhee",
+    "middleName": "gyuhee",
+    "firstLastName": "joooo",
+    "middleLastName": "joooo",
+    "password": "gyuheejo",
+    "codeStudent": 20212020035,
+    "faculty": "Ingeniería",
+    "degreeProgram": "Ingeniería de sistemas"
+  },
+  {
+    "documentType": "CC",
+    "document": 1000567567,
+    "email": "javier@udistrital.edu.co",
+    "firstName": "javier",
+    "middleName": "orlando",
+    "firstLastName": "patino",
+    "middleLastName": "carranza",
+    "password": "javierorlando",
+    "codeStudent": 20212020037,
+    "faculty": "Ingeniería",
+    "degreeProgram": "Ingeniería de sistemas"
+  }
+]

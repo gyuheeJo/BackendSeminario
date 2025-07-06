@@ -1,0 +1,35 @@
+[
+  {
+    "documentType": "CC",
+    "document": 1000123123,
+    "email": "david@udistrital.edu.co",
+    "firstName": "david",
+    "middleName": "santiago",
+    "firstLastName": "niño",
+    "middleLastName": "botero",
+    "password": "davidbotero",
+    "serviceUnitId": 1
+  },
+  {
+    "documentType": "CC",
+    "document": 1000234234,
+    "email": "sergio@udistrital.edu.co",
+    "firstName": "sergio",
+    "middleName": "david",
+    "firstLastName": "bohada",
+    "middleLastName": "vargas",
+    "password": "sergiobohada",
+    "serviceUnitId": 2
+  },
+  {
+    "documentType": "CC",
+    "document": 1000345345,
+    "email": "diana@udistrital.edu.co",
+    "firstName": "diana",
+    "middleName": "paola",
+    "firstLastName": "ferraro",
+    "middleLastName": "cardenas",
+    "password": "dianaferraro",
+    "serviceUnitId": 3
+  }
+]
